@@ -1,2 +1,2 @@
 # hello-world
-Just a little intro to Github
+About myself, yeah!
